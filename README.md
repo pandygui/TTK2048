@@ -1,6 +1,5 @@
 # TTK2048
 ![QtCreator](https://img.shields.io/badge/Coded%20with-QtCreator%20IDE-blue.svg?style=flat-square)
-![License](https://img.shields.io/badge/license-LGPL%20V2-yellowgreen.svg?style=flat-square)
 ![TTK2048](https://img.shields.io/badge/Greedysky-TTK2048-green.svg?style=flat-square)
 
 ### **|[About](https://github.com/Greedysky/TTK2048#usage)|[Screenshots](https://github.com/Greedysky/TTK2048#screenshots)|[Copyright](https://github.com/Greedysky/TTK2048#copyright)|[Contribute](https://github.com/Greedysky/TTK2048#how-to-contribute)|**
