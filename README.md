@@ -8,14 +8,17 @@
 Usage
 ----
  * Qt develop version be tested on Qt4.8.7 for windows-mingw 32bit
+ * Qt develop version be tested on Qt4.8.6 for ubuntu-linux-gcc 64bit
  * Qt develop version be tested on Qt5.x for windows-mingw 32bit
+ * Qt develop version be tested on Qt5.x for ubuntu-linux-gcc 64bit
  * Qt develop version be tested on Qt5.x for windows-msvc
 
-| Platform | Qt & Compiler       | Status                                                                                      |
+ | Platform | Qt & Compiler       | Status                                                                                      |
 | :---:    | :---:               | :---:                                                                                       |
-| Windows    | 4.8.7 MSVC & 5.x MSVC    | ![Linux](https://img.shields.io/wercker/ci/wercker/docs.svg)                            |
+| Linux    | 4.8.7 GCC & 5.x GCC    | ![Linux](https://img.shields.io/wercker/ci/wercker/docs.svg)                            |
 | Windows  | 4.8.7 GCC & 5.x GCC       | ![Windows](https://img.shields.io/wercker/ci/wercker/docs.svg) |
-| OS X     | 5.x Clang     | ![OSX](https://img.shields.io/badge/build-unknown-lightgrey.svg?style=flat-square)                           |
+| Windows  | 5.x MSVC       | ![Windows](https://img.shields.io/wercker/ci/wercker/docs.svg) |
+| OS X     | 5.x Clang     | ![OSX](https://img.shields.io/badge/build-unknown-lightgrey.svg?style=flat-square)                            |
 
 # For Developers
 
